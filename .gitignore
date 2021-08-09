@@ -1,0 +1,9 @@
+.idea
+/node_modules
+keys
+package-lock.json
+yarn.lock
+/dist
+*.env
+/log
+*.log
